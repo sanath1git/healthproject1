@@ -1,7 +1,7 @@
 # Glory Luxe
-This is a web based application developed for the health related helps in india
+This is a web based health related application developed  to provide health related services and to clarify doughts of users in india.
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, AICTE, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** -https://lively-field-0cbfd4000.2.azurestaticapps.net/
