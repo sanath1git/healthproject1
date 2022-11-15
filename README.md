@@ -5,7 +5,7 @@ This is a web based health related application developed  to provide health rela
 
 
 **Project Link** -https://lively-field-0cbfd4000.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtu.be/mewFdlwSwLQ
 
 ## Azure technologies used for Project
 
